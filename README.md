@@ -1,10 +1,10 @@
 # DistributedSystems
 
-#First Project
+**First Project**
 
 This is a client/server system implemented in C# using the .NET framework libraries (System*). The purpose of this system is to provide a file coverage processing service for CSV files. It allows clients to send multiple files to the server for processing, according to the defined rules.
 
-#Features
+**Features**
 -Client/Server Architecture: The system follows a client/server model, where the client program communicates with the server program to send files for processing and receive the results.
 
 -CSV File Processing: The server is capable of processing CSV files, extracting coverage data, and performing calculations or analysis based on the provided rules.
@@ -17,7 +17,8 @@ This is a client/server system implemented in C# using the .NET framework librar
 
 
 
-#Usage
+**Usage**
+
 -Start the server program on a designated machine or network.
 
 -Run the client program on a client machine.
@@ -33,8 +34,8 @@ This is a client/server system implemented in C# using the .NET framework librar
 -Please refer to the documentation for detailed instructions on how to set up and use the File Coverage Processing System.
 
 
-#Note
+**Note**
 
 This system is developed as a sample project to demonstrate client/server communication and CSV file processing using C# and .NET framework libraries. It can serve as a foundation for building more complex coverage processing systems or be customized to meet specific requirements.
 
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
