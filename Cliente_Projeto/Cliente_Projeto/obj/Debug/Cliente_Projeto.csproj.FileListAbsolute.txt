@@ -1,0 +1,8 @@
+C:\Users\pedro\Source\Repos\sistemas_distribuidos_grupo7_pl3\Cliente_Projeto\Cliente_Projeto\bin\Debug\Cliente_Projeto.exe.config
+C:\Users\pedro\Source\Repos\sistemas_distribuidos_grupo7_pl3\Cliente_Projeto\Cliente_Projeto\bin\Debug\Cliente_Projeto.exe
+C:\Users\pedro\Source\Repos\sistemas_distribuidos_grupo7_pl3\Cliente_Projeto\Cliente_Projeto\bin\Debug\Cliente_Projeto.pdb
+C:\Users\pedro\Source\Repos\sistemas_distribuidos_grupo7_pl3\Cliente_Projeto\Cliente_Projeto\obj\Debug\Cliente_Projeto.csproj.AssemblyReference.cache
+C:\Users\pedro\Source\Repos\sistemas_distribuidos_grupo7_pl3\Cliente_Projeto\Cliente_Projeto\obj\Debug\Cliente_Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Source\Repos\sistemas_distribuidos_grupo7_pl3\Cliente_Projeto\Cliente_Projeto\obj\Debug\Cliente_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Source\Repos\sistemas_distribuidos_grupo7_pl3\Cliente_Projeto\Cliente_Projeto\obj\Debug\Cliente_Projeto.exe
+C:\Users\pedro\Source\Repos\sistemas_distribuidos_grupo7_pl3\Cliente_Projeto\Cliente_Projeto\obj\Debug\Cliente_Projeto.pdb
